@@ -6,3 +6,5 @@
 
 # Project exclude paths
 /target/
+.idea
+.gitattributes
